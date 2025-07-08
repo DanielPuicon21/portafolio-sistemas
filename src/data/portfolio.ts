@@ -1,10 +1,10 @@
 import { PersonalInfo, Project, Skill, Experience, Education } from "@/types";
 
 export const personalInfo: PersonalInfo = {
-  name: "Tu Nombre",
+  name: "Daniel Puicon Aquino",
   title: "Estudiante de Ingeniería de Sistemas",
   description: "Apasionado por la tecnología y el desarrollo de software. Especializado en desarrollo web full-stack con experiencia en React, Node.js y bases de datos. Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.",
-  image: "/profile-placeholder.jpg",
+  image: "https://scontent.flim2-6.fna.fbcdn.net/v/t39.30808-6/278711147_3178850752389092_7014265100693215130_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFeJgIKpKL3OvDtMLO_35dMWVtpQ_NNW_FZW2lD801b8cBuNpsxfTVSXMIk-z4z25XuvO4Uuh3PPF26CWdKbOSt&_nc_ohc=SMTVW0OM0kQQ7kNvwF4k05I&_nc_oc=AdmxEs6pfhD9-jzj8NjVZMmsvxL_dF34xkncexJjF_SWqUHKt9Zclaq2zbe3QRnSAyA&_nc_zt=23&_nc_ht=scontent.flim2-6.fna&_nc_gid=7AwpHO_IbeJ5UqIoqUZJlQ&oh=00_AfQ8Wf508Vw9O3c-WTN3eIQuzMEERx5eg_6-J08_-JPffw&oe=6873478B",
   resume: "/resume.pdf",
   contact: {
     email: "tu.email@ejemplo.com",
